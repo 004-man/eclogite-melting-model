@@ -140,7 +140,7 @@ Kd_i = mineral/melt partition coefficient
 
 🎓 Citation
 If you use this model in your research, please cite:
-Sarbajit Dash (2024). "Eclogite Melting Model: Non-Modal Batch Melting Calculator." 
+Sarbajit Dash (2025). "Eclogite Melting Model: Non-Modal Batch Melting Calculator." 
 GitHub repository: https://github.com/004-man/eclogite-melting-model
 📖 References
 
